@@ -1,4 +1,4 @@
-﻿# 2026-A173-Entrenamiento-m-sical-VR
+﻿# 2026-A173-Entrenamiento-musical-VR
  # Sistema de Entrenamiento y Presentación Musical en Realidad Virtual
 
 [![Unity](https://img.shields.io/badge/Unity-2023.2-blue)](https://unity.com/)
@@ -25,5 +25,6 @@ Permite a los usuarios practicar canciones, recibir **retroalimentación en tiem
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/tu-usuario/VR-Music-Training.git
+
 
 
